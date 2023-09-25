@@ -1,2 +1,2 @@
-# Fire-ALarm-with-Flame-sensor-Arduiono
-When the flame sensor detract any fire source after that it send signal on Arduino after the arduino turn alarm..
+# FireAlert
+The "FireAlert" system is designed to detect the presence of a fire source using a fire sensor. When the sensor detects a fire, it sends a signal to an Arduino microcontroller. The Arduino, upon receiving the signal, activates an alarm, which can include sounding sirens. This system serves as an early warning system for fire detection, helping to enhance safety and mitigate potential fire-related risks.
